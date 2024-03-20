@@ -1,5 +1,5 @@
 # Quote_Generator
-Quote Generator
+
 A simple quote generator using HTML, CSS, and JS.
 Features
 Generates a random quote from a list of pre-defined quotes
