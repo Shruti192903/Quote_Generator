@@ -29,7 +29,3 @@ Once the web page is loaded, you'll see a "New Quote" button. Click on it to dis
 - **Styling:**
 Feel free to modify the CSS styles in the `style.css` file to match your desired look and feel.
 
-## Dependencies
-
-- **No external dependencies:** This project does not rely on any external libraries or frameworks, keeping it lightweight and easy to use.
-
