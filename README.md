@@ -21,7 +21,7 @@ Once the web page is loaded, you'll see a "New Quote" button. Click on it to dis
 3. **Voice Feature:**
 - After generating a quote, click on the "Speaker" icon to hear the quote loud.
 - Utilizes the Web Speech API for text-to-speech conversion directly in the browser.
-
+ 
 4. **Copy to Clipboard:**
 - Next to each displayed quote, there is a "Clipboard" icon. Clicking this button copies the quote text to your clipboard.
 
