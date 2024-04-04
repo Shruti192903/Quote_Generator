@@ -31,5 +31,6 @@ Feel free to modify the CSS styles in the `style.css` file to match your desired
 
 - **Output:**
 
-  <img src="Image.png" width="400" height="300" alt="Screenshot">
+  ![Screenshot](Image.png)
+
   
