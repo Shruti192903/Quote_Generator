@@ -8,7 +8,7 @@ This project is a simple web-based quote generator built using HTML, CSS, and Ja
 git clone https://github.com/Shruti192903/Quote_Generator.git
 
 2. **Navigate to the Project Directory:**
-
+   
 
 ## Usage
 
